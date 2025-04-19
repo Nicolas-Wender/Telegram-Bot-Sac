@@ -1,0 +1,26 @@
+{
+  "categorias": [
+    {
+      "nome": "Pedidos e Compras",
+      "perguntas": [
+        {
+          "pergunta": "Como faço para comprar um produto?",
+          "resposta": "Navegue pelo site, selecione o produto desejado, escolha o tamanho e cor, adicione ao carrinho e finalize a compra preenchendo os dados de entrega e pagamento."
+        },
+        {
+          "pergunta": "Quais são as formas de pagamento aceitas?",
+          "resposta": "Aceitamos cartões de crédito (Visa, Mastercard, Elo, Amex), boleto bancário, PIX e PayPal."
+        }
+      ]
+    },
+    {
+      "nome": "Entrega e Logística",
+      "perguntas": [
+        {
+          "pergunta": "Qual o prazo de entrega?",
+          "resposta": "Prazo médio de entrega é de 5 a 10 dias úteis para todo o Brasil. Capitais e grandes centros urbanos têm prazo reduzido de 3 a 5 dias úteis."
+        }
+      ]
+    }
+  ]
+}
